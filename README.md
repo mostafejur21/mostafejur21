@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mostafejur21
-- 👀 I’m interested in c++
+- 👀 I’m interested in Android development
 - 🌱 I’m currently learning compatitive programing
 - 💞️ I’m looking to collaborate on ...
 - my email mostafejur.smuct.cse@gmail.com
