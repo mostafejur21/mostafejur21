@@ -1,4 +1,5 @@
-https://github.com/mostafejur21/mostafejur21/blob/main/my%20banner.png?raw=true
+![my banner](https://user-images.githubusercontent.com/106027543/209863409-88a87433-2b0c-438f-ac8e-43ad913beaa8.png)
+
 
 
 ### Hi there 👋, my name is Mostafejur Rahman
