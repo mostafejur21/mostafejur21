@@ -35,4 +35,10 @@ Analytical and detail oriented Android app developer professional with stellar c
   
 
 ![GitHub metrics](https://metrics.lecoq.io/mostafejur21)  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" />
+</p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainzarif&" alt="hossainzarif" /></p>
+ -->
     
