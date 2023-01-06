@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, my name is Mostafejur Rahman
+### Hi there 👋, my name is **Mostafejur Rahman**
 #### Android Developer
 
 Analytical and detail oriented Android app developer professional with stellar communication skills. Adept at bringing all team members together to reach a common goal on time and under budget. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. 
@@ -40,3 +40,5 @@ Analytical and detail oriented Android app developer professional with stellar c
   <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" />
 </p>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafejur21&" alt="mostafejur21" /></p>
+ -->
