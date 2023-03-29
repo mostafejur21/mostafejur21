@@ -42,12 +42,12 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafejur21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mostafejur21)
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mostafejur21) -->
+https://camo.githubusercontent.com/424fd721ac459d867495aa07259cfc59d4f35036ccce74af3a4fdf26613984b2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6f73746166656a75723231
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mostafejur21)](https://github.com/ryo-ma/github-profile-trophy)
 
