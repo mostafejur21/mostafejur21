@@ -26,7 +26,7 @@
 </a>   -->
 
  
-👋 Hi there! I'm **Mostafejur Rahman**, a passionate Flutter developer.
+👋 Hi there! I'm **Mostafejur Rahman**, a passionate **Flutter developer**.
 
 👨‍💻 I recently started my journey in mobile app development with Flutter and I'm loving every bit of it! My aim is to build beautiful and functional apps that solve real-world problems.
 
@@ -34,7 +34,7 @@
 
 💼 I'm open to collaborating on interesting Flutter projects and contributing to open source. If you're looking for a motivated and enthusiastic developer to join your team, feel free to reach out to me.
 
-📫 You can contact me via email at mostafejur.smuct.cse@gmail.com or connect with me on LinkedIn. Let's build amazing things together!
+📫 You can contact me via email at **mostafejur.smuct.cse@gmail.com** or connect with me on LinkedIn. Let's build amazing things together!
 
 
 ![Profile views](https://gpvc.arturio.dev/mostafejur21) 
