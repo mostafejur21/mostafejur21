@@ -26,7 +26,7 @@
 </a>   -->
 
  
-👋 Hi there! I'm Mostafejur Rahman, a passionate Flutter developer.
+👋 Hi there! I'm **Mostafejur Rahman**, a passionate Flutter developer.
 
 👨‍💻 I recently started my journey in mobile app development with Flutter and I'm loving every bit of it! My aim is to build beautiful and functional apps that solve real-world problems.
 
