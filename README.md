@@ -44,11 +44,6 @@
 
 
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostafejur21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafejur-rahman21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/roughelephent/)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafejur21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -68,5 +63,5 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/mostafejur21/mostafejur21/main/Pink%20Cream%20and%20Green%20Digitalism%20Self%20Care%20Daily%20Weekly%20Monthly%20Planner%20Planner%20Presentation.gif" />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafejur21&" alt="mostafejur21" /></p>
+
 
