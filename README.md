@@ -73,7 +73,7 @@
   <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" />
 </p>
 <div align="center">
-<img src="https://raw.githubusercontent.com/mostafejur21/mostafejur21/main/Pink%20Cream%20and%20Green%20Digitalism%20Self%20Care%20Daily%20Weekly%20Monthly%20Planner%20Planner%20Presentation.gif" />
+<!-- <img src="https://raw.githubusercontent.com/mostafejur21/mostafejur21/main/Pink%20Cream%20and%20Green%20Digitalism%20Self%20Care%20Daily%20Weekly%20Monthly%20Planner%20Planner%20Presentation.gif" /> -->
 </div>
 
 
