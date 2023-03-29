@@ -1,8 +1,29 @@
-![my banner](https://user-images.githubusercontent.com/106027543/209863409-88a87433-2b0c-438f-ac8e-43ad913beaa8.png)
+<!-- ![my banner](https://user-images.githubusercontent.com/106027543/209863409-88a87433-2b0c-438f-ac8e-43ad913beaa8.png) -->
 
 
 
 ### Hi there 👋, my name is **Mostafejur Rahman**
+<a href="https://github.com/mostafejur21" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/mostafejur_21" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="https://dev.to/jabidgithub" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a> -->
+<a href="https://linkedin.com/in/mostafejur-rahman21/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/roughelephent" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="https://stackoverflow.com/users/12351393/jabid-hasan" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /> -->
+</a>
+<!-- <a href="https://medium.com/@jabid9931" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>   -->
 #### Android Developer
 
 Analytical and detail oriented Android app developer professional with stellar communication skills. Adept at bringing all team members together to reach a common goal on time and under budget. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. 
