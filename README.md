@@ -1,8 +1,5 @@
 <!-- ![my banner](https://user-images.githubusercontent.com/106027543/209863409-88a87433-2b0c-438f-ac8e-43ad913beaa8.png) -->
 
-
-
-### Hi there 👋, my name is **Mostafejur Rahman**
 <a href="https://github.com/mostafejur21" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
