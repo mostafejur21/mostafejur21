@@ -1,4 +1,4 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mostafejur-rahman21" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/mostafejur-rahman21?trk=profile-badge">Mostafejur Rahman</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mostafejur-rahman21" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mostafejur21/">Mostafejur Rahman</a></div>
               
 
 <!-- ![my banner](https://user-images.githubusercontent.com/106027543/209863409-88a87433-2b0c-438f-ac8e-43ad913beaa8.png) -->
