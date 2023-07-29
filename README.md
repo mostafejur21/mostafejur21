@@ -1,82 +1,48 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mostafejur-rahman21" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mostafejur21/">Mostafejur Rahman</a></div>
-              
-
-<!-- ![my banner](https://user-images.githubusercontent.com/106027543/209863409-88a87433-2b0c-438f-ac8e-43ad913beaa8.png) -->
-
-<a href="https://github.com/mostafejur21" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/mostafejur_21" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://dev.to/jabidgithub" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://www.linkedin.com/in/mostafejur21//" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/roughelephent" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://stackoverflow.com/users/12351393/jabid-hasan" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /> -->
-</a>
-<!-- <a href="https://medium.com/@jabid9931" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>   -->
-
- 
-👋 Hi there! I'm **Mostafejur Rahman**, a passionate **Flutter developer**.
-
-👨‍💻 I recently started my journey in mobile app development with Flutter and I'm loving every bit of it! My aim is to build beautiful and functional apps that solve real-world problems.
-
-🚀 I'm currently learning and experimenting with various Flutter widgets, libraries, and plugins to improve my skills and stay up-to-date with the latest trends in the Flutter community.
-
-💼 I'm open to collaborating on interesting Flutter projects and contributing to open source. If you're looking for a motivated and enthusiastic developer to join your team, feel free to reach out to me.
-
-📫 You can contact me via email at **mostafejur.smuct.cse@gmail.com** or connect with me on LinkedIn. Let's build amazing things together!
+<h1 align="center">Hi 👋, I'm Mostafejur Rahman</h1>
+<h3 align="center">A passionate FLUTTER developer from Bangladesh</h3>
 
 
-![Profile views](https://gpvc.arturio.dev/mostafejur21) 
 
-<h3 align="left">Languages and Tools:</h3>
+- 🌱 I’m currently learning **Flutter framework**
 
-<p align="left"><a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a><a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>   </p>
+- 💬 Ask me about **flutter, cpp, dart**
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- 📫 How to reach me **mostafejur.smuct.cse@gmail.com**
 
-- 🌱 I’m currently learning Flutter 
+- 📄 Know about my experiences [https://about.me/mostafejur?fbclid=IwAR02X73dv_r1nUaaT6sK-U6-ixDKL6tjDZ1J-UIi0j8TJgR2QU7GV4Xwz-E](https://about.me/mostafejur?fbclid=IwAR02X73dv_r1nUaaT6sK-U6-ixDKL6tjDZ1J-UIi0j8TJgR2QU7GV4Xwz-E)
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mostafejur21/mostafejur21/main/Pink%20Cream%20and%20Green%20Digitalism%20Self%20Care%20Daily%20Weekly%20Monthly%20Planner%20Planner%20Presentation.gif" />
-</div>  
-
-
-</td></tr></table>  
+- ⚡ Fun fact **I'm a boring person** 
+  
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafejur21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="justify">Connect with me:</h3>
+<p align="justify">
+<a href="https://linkedin.com/in/mostafejur21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafejur21/" height="30" width="40" /></a>
+<a href="https://fb.com/roughelephent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roughelephent" height="30" width="40" /></a>
+<a href="https://instagram.com/fizzzz.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fizzzz.21" height="30" width="40" /></a>
+<a href="https://twitter.com/mostafejur21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafejur21" height="30" width="40" /></a>
+<a href="https://dribbble.com/mostafejur21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mostafejur21" height="30" width="40" /></a>
+<a href="https://medium.com/mostafejur21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mostafejur21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mostafejur21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mostafejur21" height="30" width="40" /></a>
+</p>
+</br>
+<h3 align="justify">Languages and Tools:</h3>
+<p align="justify"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mostafejur21)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafejur21&show_icons=true&locale=en&layout=compact&theme=radical" alt="mostafejur21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafejur21&&theme=radical" alt="mostafejur21" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mostafejur21)](https://github.com/ryo-ma/github-profile-trophy)
 
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true&locale=en&theme=radical" alt="mostafejur21" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafejur21&label=Profile%20views&color=0e75b6&style=flat" alt="mostafejur21" /> </p>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/mostafejur21)  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafejur21&theme=radical  " alt="mostafejur21" /></a> </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" />
 </p>
-<div align="center">
-<!-- <img src="https://raw.githubusercontent.com/mostafejur21/mostafejur21/main/Pink%20Cream%20and%20Green%20Digitalism%20Self%20Care%20Daily%20Weekly%20Monthly%20Planner%20Planner%20Presentation.gif" /> -->
-</div>
-
-
