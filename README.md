@@ -41,7 +41,8 @@
 
 
 ![GitHub metrics](https://metrics.lecoq.io/mostafejur21)  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafejur21&theme=radical  " alt="mostafejur21" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mostafejur21&row=2&column=3&theme=onedark)](https://github.com/mostafejur21/github-profile-trophy)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" />
