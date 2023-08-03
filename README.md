@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flutter, cpp, dart**
 
-- 📫 How to reach me **mostafejur.smuct.cse@gmail.com**
+- 📫 How to reach me **mostafejur.smuct.cse@gmail.com, info.mostafejur21@gmail.com**
 
 - 📄 Know about my experiences [https://about.me/mostafejur?fbclid=IwAR02X73dv_r1nUaaT6sK-U6-ixDKL6tjDZ1J-UIi0j8TJgR2QU7GV4Xwz-E](https://about.me/mostafejur?fbclid=IwAR02X73dv_r1nUaaT6sK-U6-ixDKL6tjDZ1J-UIi0j8TJgR2QU7GV4Xwz-E)
 
