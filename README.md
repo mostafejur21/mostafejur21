@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mostafejur Rahman</h1>
-<h3 align="center">A passionate FLUTTER developer from Bangladesh</h3>
-
-
+<h2 align="center">I can print "Hello World!"</h2>
 
 - 🌱 I’m currently learning **Flutter, c++**
 
@@ -12,9 +10,6 @@
 
 - 📄 Know about my experiences  **[Resume](https://drive.google.com/file/d/1_Lj021jEvp50ExKzyl_yPuqewg_j_Z8G/view?usp=drive_link)**
 
-  
-</br>
-
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -23,11 +18,16 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-### Technologies
+### Tools & Technologies
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=0553B1)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
+![Neovim](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Neovim](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Neovim](https://img.shields.io/badge/-Tmux-000?&logo=Tmux)
+![Neovim](https://img.shields.io/badge/-Zsh-000?&logo=Zsh)
 
 <h3 align="justify">Connect with me:</h3>
 <p align="justify">
