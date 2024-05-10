@@ -18,8 +18,6 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
 
 
 ### Tools & Technologies
