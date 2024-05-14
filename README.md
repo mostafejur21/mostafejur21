@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mostafejur Rahman</h1>
 <h2 align="center">I can print "Hello World!"</h2>
 
-- 🌱 I’m currently learning **Flutter, c++**
+- 🌱 I’m currently learning **Mobile application development with Flutter, and problem solving with c++**
 
 - 💬 Ask me about **flutter, cpp, dart**
 
