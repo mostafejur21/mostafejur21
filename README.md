@@ -9,7 +9,7 @@
 - 📫 Email me **<mostafejur.smuct.cse@gmail.com>, <info.mostafejur21@gmail.com>**
 
 - 📄 Know about my experiences  **[Resume](https://drive.google.com/file/d/1_Lj021jEvp50ExKzyl_yPuqewg_j_Z8G/view?usp=drive_link)**
-- ⚡ Fun fact **I use VIM btw** 
+- ⚡ Fun fact **I daily drive Linux and I use VIM btw** 
 
 ### Languages
 
