@@ -12,7 +12,7 @@
 - 🕵 Find my social **[Link](https://mostafejur21.github.io/mostafejur/)** 
 
 - 📄 Know about my experiences  **[Resume](https://drive.google.com/file/d/1_Lj021jEvp50ExKzyl_yPuqewg_j_Z8G/view?usp=drive_link)**
-- ⚡ Fun fact **I daily drive Linux and I use VIM btw** 
+- ⚡ **I daily drive Linux and I use Neovim** 
 
 ### Languages
 
