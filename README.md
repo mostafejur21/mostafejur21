@@ -3,7 +3,7 @@
 <h2 align="center">I can print "Hello World!"</h2>
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
-- 🌱 I’m currently learning **Mobile application development with Flutter, and problem solving with c++**
+- 🌱 I’m currently learning **Backend with Node.js**
 
 - 💬 Ask me about **flutter, cpp, dart**
 
