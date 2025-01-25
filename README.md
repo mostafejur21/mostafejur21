@@ -3,19 +3,32 @@
 <h2 align="center">I can print "Hello World!"</h2>
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
-- 🌱 I’m currently learning **Backend with Node.js**
+### 🌟 About Me
+Passionate about solving real-world problems with technology, I am a graduate software engineer specializing in Flutter app development, Node.js backend, and cloud technologies. I love crafting modern, user-friendly apps and exploring innovative solutions in the tech space.
 
-- 💬 Ask me about **flutter, cpp, dart**
+| 🌱 **Currently Learning**  | **GO**                                               |
+|----------------------------|------------------------------------------------------------------------|
+| 💬 **Ask Me About**        | **Flutter, C++, Dart, Go**                                                |
+| 📫 **Email Me**            | **[info.mostafejur21@gmail.com](mailto:info.mostafejur21@gmail.com), [mostafejur.smuct.cse@gmail.com](mailto:mostafejur.smuct.cse@gmail.com)** |
+| 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.netlify.app/)**                       |
+| 🕵 **Social Links**         | **[Socials](https://mostafejur21.github.io/mostafejur/)**             |
+| 📄 **Resume**              | **[Resume](https://drive.google.com/file/d/1_Lj021jEvp50ExKzyl_yPuqewg_j_Z8G/view?usp=drive_link)** |
+| ⚡ **Daily Driver**         | **Linux and Neovim**                                                 |
 
-- 📫 Email me **<info.mostafejur21@gmail.com>, <mostafejur.smuct.cse@gmail.com>**
 
-- 👨🏻‍💻 Visit my portfolio **[Portfolio](https://mostafejur.netlify.app/)**,
 
-- 🕵 Find my social **[Link](https://mostafejur21.github.io/mostafejur/)** 
+### 💻 My Tech!
 
-- 📄 Know about my experiences  **[Resume](https://drive.google.com/file/d/1_Lj021jEvp50ExKzyl_yPuqewg_j_Z8G/view?usp=drive_link)**
-- ⚡ **I daily drive Linux and I use Neovim** 
-
+| **Category**      | **Technologies**                                                                 |
+|--------------------|---------------------------------------------------------------------------------|
+| **Languages**      | `dart`, `Golang`, `JavaScript`, `C++`, `SQL`                                   |
+| **Backend**        | `GO`, `Node.js`, `Express.js`                                         |
+| **Frontend**       | `Flutter`                                                                       |
+| **Database**       | `PostgreSQL`, `OracleDB`, `MongoDB`                                            |
+| **Tools**          | `Git`, `GitHub Workflow`                                                      |
+| **Cloud**          | `Firebase`,`SupaBase`                                                         |
+| **Productivity**   | `Jira`, `MS PowerPoint`, `Adobe Photoshop`                                     |
+<!--
 ### Languages
 
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=007396)
@@ -37,7 +50,7 @@
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android%20Studio&logoColor=3DDC84)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
+-->
 <h3 align="justify">Connect with me:</h3>
 <p align="justify">
 <a href="https://linkedin.com/in/mostafejur21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafejur21/" height="30" width="40" /></a>
@@ -51,7 +64,7 @@
 
 | Streak | State |
 | -------- | ------- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafejur21&theme=horizon&border_radius=5&exclude_days=Fri)](https://git.io/streak-stats) | <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafejur21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mostafejur21" /></p> |
+| <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true" />   &nbsp;| <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafejur21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mostafejur21" /></p> |
 
 <p align="center">
   Visitor count<br>
