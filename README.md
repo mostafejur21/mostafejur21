@@ -22,12 +22,12 @@ Passionate about solving real-world problems with technology, I am a graduate so
 | **Category**      | **Technologies**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
 | **Languages**      | `dart`, `Golang`, `JavaScript`, `C++`, `SQL`                                   |
-| **Backend**        | `GO`, `Node.js`, `Express.js`                                         |
-| **Frontend**       | `Flutter`                                                                       |
-| **Database**       | `PostgreSQL`, `OracleDB`, `MongoDB`                                            |
-| **Tools**          | `Git`, `GitHub Workflow`                                                      |
-| **Cloud**          | `Firebase`,`SupaBase`                                                         |
-| **Productivity**   | `Jira`, `MS PowerPoint`, `Adobe Photoshop`                                     |
+| **Backend**        | `GO`, `Node.js`                                                                |
+| **Frontend**       | `Flutter`                                                                      |
+| **Database**       | `PostgreSQL`, `SQL`                                                            |
+| **Tools**          | `Git`, `GitHub Workflow`                                                       |
+| **Cloud**          | `Firebase`,`SupaBase`                                                          |
+| **Productivity**   | `Jira`, `MS PowerPoint`, `Canva`                                               |
 <!--
 ### Languages
 
