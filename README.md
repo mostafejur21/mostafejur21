@@ -61,6 +61,8 @@ Passionate about solving real-world problems with technology, I am a graduate so
 <a href="https://www.hackerrank.com/mostafejur21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mostafejur21" height="30" width="40" /></a>
 </p>
 </br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 | Streak | State |
 | -------- | ------- |
