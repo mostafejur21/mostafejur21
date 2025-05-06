@@ -62,6 +62,11 @@ Passionate about solving real-world problems with technology, I am a graduate so
 </p>
 </br>
 <!--START_SECTION:waka-->
+
+```txt
+Dart   1 hr 56 mins    █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 | Streak | State |
