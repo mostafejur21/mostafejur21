@@ -64,11 +64,11 @@ Passionate about solving real-world problems with technology, I am a graduate so
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     23 hrs 23 mins  ████████████████████████▓   99.20 %
-Groovy   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Bash     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-XML      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Dart    19 hrs 26 mins  █████████████████████████   99.41 %
+YAML    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
