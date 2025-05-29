@@ -64,11 +64,11 @@ Passionate about solving real-world problems with technology, I am a graduate so
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         7 hrs 24 mins   █████████████████████▒░░░   85.49 %
-Kotlin       43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-XML          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Dart         3 hrs 52 mins   ███████████████████████░░   92.13 %
+Makefile     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
