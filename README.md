@@ -64,11 +64,7 @@ Passionate about solving real-world problems with technology, I am a graduate so
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         3 hrs 52 mins   ███████████████████████░░   92.13 %
-Makefile     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Dart   34 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
