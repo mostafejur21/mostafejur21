@@ -12,7 +12,7 @@ Passionate about solving real-world problems with technology, I am a graduate so
 | 📫 **Email Me**            | **[info.mostafejur21@gmail.com](mailto:info.mostafejur21@gmail.com), [mostafejur.smuct.cse@gmail.com](mailto:mostafejur.smuct.cse@gmail.com)** |
 | 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.netlify.app/)**                       |
 | 🕵 **Social Links**         | **[Socials](https://mostafejur21.github.io/mostafejur/)**             |
-| 📄 **Resume**              | **[Resume](https://drive.google.com/file/d/1_Lj021jEvp50ExKzyl_yPuqewg_j_Z8G/view?usp=drive_link)** |
+| 📄 **Resume**              | **[Resume](https://drive.google.com/file/d/1WlcrxyEpG_iheVLmHi-wMe4FBajb9tbz/view?usp=sharing)** |
 | ⚡ **Daily Driver**         | **Linux and Neovim**                                                 |
 
 
