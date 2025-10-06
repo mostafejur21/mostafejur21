@@ -10,7 +10,7 @@ Passionate about solving real-world problems with technology, I am a graduate so
 |----------------------------|------------------------------------------------------------------------|
 | 💬 **Ask Me About**        | **Flutter, C++, Dart, Go**                                                |
 | 📫 **Email Me**            | **[info.mostafejur21@gmail.com](mailto:info.mostafejur21@gmail.com), [mostafejur.smuct.cse@gmail.com](mailto:mostafejur.smuct.cse@gmail.com)** |
-| 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.netlify.app/)**                       |
+| 👨🏻‍💻 **Portfolio**        | **[Portfolio](https://mostafejur.com/)**                       |
 | 🕵 **Social Links**         | **[Socials](https://mostafejur21.github.io/mostafejur/)**             |
 | 📄 **Resume**              | **[Resume](https://drive.google.com/file/d/15pxbgmNoW9sQqvXWFO3fyVkOVgaZEtYw/view?usp=sharing)** |
 | ⚡ **Daily Driver**         | **Linux and Neovim**                                                 |
