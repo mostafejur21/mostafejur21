@@ -1,8 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Mostafejur Rahman</h1>
-<h2 align="center">I can print "Hello World!"</h2>
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
-
 ### 🌟 About Me
 Passionate about solving real-world problems with technology, I am a graduate software engineer specializing in Flutter app development, Node.js backend, and cloud technologies. I love crafting modern, user-friendly apps and exploring innovative solutions in the tech space.
 
@@ -62,11 +58,3 @@ Passionate about solving real-world problems with technology, I am a graduate so
 </p>
 </br>
 
-| Streak | State |
-| -------- | ------- |
-| <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mostafejur21&show_icons=true" />   &nbsp;| <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafejur21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mostafejur21" /></p> |
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mostafejur21/count.svg" />
-</p>
